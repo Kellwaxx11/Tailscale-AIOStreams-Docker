@@ -73,3 +73,9 @@ To use your self hosted AIOStreams, copy the domain name from Tailscale admin pa
 it should look something like
 
     ts-aiostreams.tailxxxxxx.ts.net
+
+
+**Credits**
+
+Tailscale and their detailed guides and videos and github examples https://github.com/tailscale-dev/docker-guide-code-examples
+Viren070/AIOStreams - for the amazing addon for Stremio https://github.com/Viren070/AIOStreams
